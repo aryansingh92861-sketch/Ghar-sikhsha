@@ -1,0 +1,6 @@
+{
+  "name": "GharShiksha",
+  "description": "Home offline coaching marketplace connecting parents with verified home tutors for 1-on-1 offline classes, attendance tracking, and monthly booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
